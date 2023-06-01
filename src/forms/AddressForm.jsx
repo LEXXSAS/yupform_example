@@ -42,7 +42,7 @@ const AddressForm = () => {
         </div>
         <br />
         <div className='buttons' style={{display: 'flex'}}>
-        <Button onClick={() => reset({city: '', street: '', appartment: ''})} variant='contained' color='secondary'>Очистить</Button>
+        <Button onClick={() => reset({city: '', street: '', appartment: ''})} variant='outlined' color='secondary'>Очистить</Button>
         <Button onClick={handleSubmit(onSubmit)} variant='contained' color='info'>Далее</Button>
         </div>
     </Box>

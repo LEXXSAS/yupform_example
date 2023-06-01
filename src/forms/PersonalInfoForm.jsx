@@ -42,7 +42,7 @@ const PersonalInfoForm = () => {
         </div>
         <br />
         <div className='buttons' style={{display: 'flex'}}>
-        <Button onClick={() => reset({firstName: '', lastName: '', password: '', email: ''})} variant='contained' color='secondary'>Очистить</Button>
+        <Button onClick={() => reset({firstName: '', lastName: '', password: '', email: ''})} variant='outlined' color='secondary'>Очистить</Button>
         <Button onClick={handleSubmit(onSubmit)} variant='contained' color='info'>Далее</Button>
         </div>
     </Box>
