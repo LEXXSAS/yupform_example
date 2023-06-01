@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/yupexample_form/static/css/main.647f49a9.css",
-    "main.js": "/yupexample_form/static/js/main.3fe1503d.js",
-    "index.html": "/yupexample_form/index.html",
-    "main.647f49a9.css.map": "/yupexample_form/static/css/main.647f49a9.css.map",
-    "main.3fe1503d.js.map": "/yupexample_form/static/js/main.3fe1503d.js.map"
+    "main.css": "/yupform_example/static/css/main.647f49a9.css",
+    "main.js": "/yupform_example/static/js/main.3fe1503d.js",
+    "index.html": "/yupform_example/index.html",
+    "main.647f49a9.css.map": "/yupform_example/static/css/main.647f49a9.css.map",
+    "main.3fe1503d.js.map": "/yupform_example/static/js/main.3fe1503d.js.map"
   },
   "entrypoints": [
     "static/css/main.647f49a9.css",
